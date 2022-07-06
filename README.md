@@ -10,6 +10,7 @@ I am a Software Engineer based in the state of New Jersey with a business admini
 <strong>Backend</strong>: Node.js, ES6, Object-oriented programming, Express.js
 <br>
 <br>
+
 ## Fun Facts About Me
 - Nickelodeon over CartoonNetwork (All That!)
 - I love to play video games (PC Gamer)
@@ -17,12 +18,12 @@ I am a Software Engineer based in the state of New Jersey with a business admini
 - I'm a husband 
 - I'm a father to a 2 year old girl who is fully embracing the "terrible twos" stage! (Please Help Us!)
 <br>
-<br>
-##My Links
+
+## My Links
 <br>
 - LinkedIn: https://www.linkedin.com/in/stephon-treadwell-1750ab61/
 <br>
--Portfolio: https://stephont.github.io/Treadwells-Portfolio/
+- Portfolio: https://stephont.github.io/Treadwells-Portfolio/
 <br>
 <br>
 Get in contact with me
