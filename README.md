@@ -14,7 +14,7 @@ I am a Software Engineer based in the state of New Jersey with a business admini
 ## ✨Fun Facts About Me✨
 - Nickelodeon over CartoonNetwork (All That!)
 - I love to play video games 🎮 (PC Gamer)
-- I Play Basketball 🏀 every chance i get
+- I Play Basketball 🏀
 - I'm a husband 
 - I'm a father to a 2 year old girl who is fully embracing the "terrible twos" stage! (Please Help Us!)
 <br>
