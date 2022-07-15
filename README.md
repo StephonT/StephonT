@@ -29,5 +29,5 @@ I am a Software Engineer based in the state of New Jersey with a business admini
 Get in contact with me 📧
 <br>
 <br>
-Email: <a href = "mailto:streadwe@gmail.com">
+Email: <a href = "mailto:streadwe@gmail.com">streadwe@gmail.com</a>
  
