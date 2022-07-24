@@ -7,7 +7,7 @@ I am a Software Engineer based in the state of New Jersey with a business admini
 ## 💻My Tech Stack
 <strong>Frontend</strong>: HTML5, CSS, Git, Javascript, Bootstrap, The Dom, APIs, JQuery, JSON, AJAX 
 <br>
-<strong>Backend</strong>: Node.js, ES6, Object-oriented programming, Express.js
+<strong>Backend</strong>: Node.js, MySQL, Object-oriented programming, Express.js, Jest
 <br>
 <br>
 
