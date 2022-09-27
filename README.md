@@ -1,13 +1,13 @@
 # Hello World! I'm Stephon! 👋🏽 Nice to virtually meet you! 🤝
 
-I am a Software Engineer based in the state of New Jersey with a business administration background looking to contribute my newly developed skills acquired from the Rutgers University Coding Boot Camp. I have strong skills in creativity, teamwork, and meeting deadlines. My ability to quickly learn cutting-edge web technologies, combined with my adept problem-solving abilities and determination, make me a strong addition to any engineering team.
+I am a Full-Stack Software Engineer based in the state of New Jersey. I currently have a career in Law Enforcement with a Business Administration background. In the near future, I am looking to transition into a full-time position in the tech industry and utilize my newly developed skills acquired from the Rutgers University Coding Bootcamp. With an innate talent for creativity, collaboration, and ability to quickly learn cutting-edge web technologies, I am a positive addition to any software engineering team.
 <br>
 <br>
 
 ## 💻My Tech Stack
-<strong>Frontend</strong>: HTML5, CSS, Git, Javascript, Bootstrap, The Dom, APIs, JQuery, JSON, AJAX 
+<strong>Frontend</strong>: HTML, CSS, Javascript, Frameworks (Bootstrap, Materialize, Tailwind CSS), React.js, Templating Language (Handlebars.js)
 <br>
-<strong>Backend</strong>: Node.js, MySQL, ES6, Object-oriented programming, Express.js, Testing, NoSQL, MongoDB
+<strong>Backend</strong>: Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
 <br>
 <br>
 
