@@ -23,7 +23,7 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 <br>
 - LinkedIn: https://www.linkedin.com/in/stephon-treadwell-1750ab61/
 <br>
-- Portfolio: [https://stephont.github.io/Treadwells-Portfolio/](https://stephont.github.io/streadwell-react-portfolio/#about)
+- Portfolio: [https://stephont.github.io/Treadwells-Portfolio/]
 <br>
 <br>
 Get in contact with me 📧
