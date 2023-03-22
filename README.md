@@ -5,7 +5,7 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 <br>
 
 ## 💻My Tech Stack
-<strong>Frontend</strong>: HTML, CSS, Javascript, Frameworks (Bootstrap, Materialize, Tailwind CSS), React.js, Templating Language (Handlebars.js)
+<strong>Frontend</strong>: HTML, CSS, Javascript/Typescript, Frameworks (Bootstrap, Materialize, Tailwind CSS), React, Next.js, Templating Language (Handlebars.js)
 <br>
 <strong>Backend</strong>: Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
 <br>
