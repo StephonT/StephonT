@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 ## 💻My Tech Stack
 <strong>Frontend</strong>: HTML, CSS, Javascript/Typescript, Frameworks (Bootstrap, Materialize, Tailwind CSS), React, Next.js, Templating Language (Handlebars.js)
 <br>
-<strong>Backend</strong>: Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
+<strong>Backend</strong>: Linux(RHEL), Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
 <br>
 <br>
 
@@ -15,8 +15,7 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 - Nickelodeon over CartoonNetwork (All That!)
 - I love to play video games 🎮 (PC Gamer)
 - I Play Basketball 🏀
-- I'm a husband 
-- I'm a father to a 2 year old girl who is fully embracing the "terrible twos" stage! (Please Help Us!)
+- Afraid of the deep blue sea but want to go scuba diving
 <br>
 
 ## 🔗My Links
