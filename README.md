@@ -1,6 +1,6 @@
 # Hello World! I'm Stephon! 👋🏽 Nice to virtually meet you! 🤝
 
-I am a Full-Stack Software Engineer based in the state of New Jersey. I currently have a career in Law Enforcement with a Business Administration background. In the near future, I am looking to transition into a full-time position in the tech industry and utilize my newly developed skills acquired from the Rutgers University Coding Bootcamp. With an innate talent for creativity, collaboration, and ability to quickly learn cutting-edge web technologies, I am a positive addition to any software engineering team.
+I'm a certified Red Hat Linux System Administrator with the Security+ CE certification. My tech journey combines software engineering prowess with a deep expertise in Linux systems. Currently, I'm honing my skills and gearing up to transition into a Linux System Admin role. My GitHub is a showcase of projects demonstrating my Linux skills, such as building servers and more. Join me on this exciting journey as I aim to make an impact in the tech world and eventually pivot into the cybersecurity sector! 🛡️ #Linux #SysAdmin #Cybersecurity
 <br>
 <br>
 
@@ -9,6 +9,7 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 <br>
 <strong>Backend</strong>: Linux(RHEL), Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
 <br>
+<strong>Linux</strong>: User Manangement, File Permissions, Process and System Management, Networking, Network Security, Storage, Bash Scripting, Troubleshooting, Podman/Docker, Troubleshooting
 <br>
 
 ## ✨Fun Facts About Me✨
@@ -21,8 +22,6 @@ I am a Full-Stack Software Engineer based in the state of New Jersey. I currentl
 ## 🔗My Links
 <br>
 - LinkedIn: https://www.linkedin.com/in/stephon-treadwell-1750ab61/
-<br>
-- Portfolio: https://stephont.github.io/streadwell-react-portfolio/
 <br>
 <br>
 Get in contact with me 📧
