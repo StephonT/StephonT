@@ -1,6 +1,6 @@
 # Hello World! I'm Stephon! 👋🏽 Nice to virtually meet you! 🤝
 
-I'm a certified Red Hat Linux System Administrator with the Security+ CE certification. My tech journey combines software engineering prowess with a deep expertise in Linux systems. Currently, I'm honing my skills and gearing up to transition into a Linux System Admin role. My GitHub is a showcase of projects demonstrating my Linux skills, such as building servers and more. Join me on this exciting journey as I aim to make an impact in the tech world and eventually pivot into the cybersecurity sector! 🛡️ #Linux #SysAdmin #Cybersecurity
+I'm a certified Red Hat Linux System Administrator with the Security+ CE certification. My tech journey combines software engineering prowess with a deep expertise in Linux systems. Currently, I'm honing my skills and gearing up to transition into a Linux System Admin role. My GitHub is a showcase of projects demonstrating my software engineering and Linux skills, such as building servers and more. Join me on this exciting journey as I aim to make an impact in the tech world and eventually pivot into the cybersecurity sector! 🛡️ #Linux #SysAdmin #Cybersecurity
 <br>
 <br>
 
