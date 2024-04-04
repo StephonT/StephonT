@@ -7,9 +7,12 @@ I'm a certified Red Hat Linux System Administrator with the Security+ CE certifi
 ## 💻My Tech Stack
 <strong>Frontend</strong>: HTML, CSS, Javascript/Typescript, Frameworks (Bootstrap, Materialize, Tailwind CSS), React, Next.js, Templating Language (Handlebars.js)
 <br>
+<br>
 <strong>Backend</strong>: Linux(RHEL), Node.js, Express.js, MySQL(mysql lite3, mysql2), NoSQL(MongoDB, Mongoose), API's(web, third-party, Restful, server-side), Apollo/GraphQL
 <br>
+<br>
 <strong>Linux</strong>: User Management, File Permissions, Process and System Management, Networking, Network Security, Storage, Bash Scripting, Troubleshooting, Podman/Docker, Troubleshooting
+<br>
 <br>
 
 ## ✨Fun Facts About Me✨
