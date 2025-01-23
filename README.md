@@ -24,7 +24,7 @@ I'm a certified Red Hat Linux System Administrator with the Security+ CE certifi
 
 ## 🔗My Links
 <br>
-- LinkedIn: [https://www.linkedin.com/in/stephon-treadwell-1750ab61/](https://www.linkedin.com/in/stephon-treadwell/)
+- LinkedIn: (https://www.linkedin.com/in/stephon-treadwell/)
 <br>
 <br>
 Get in contact with me 📧
